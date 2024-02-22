@@ -1,6 +1,7 @@
 # Analytics Dashboard
 
 Analytics Dashboard.
+<a href="https://analytics-dashboard-five-beta.vercel.app/analytics">Web site</a>
 
 # Requirements
 
